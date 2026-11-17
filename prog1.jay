@@ -1,0 +1,9 @@
+main {
+    int x;
+    bool flag;
+    x = 10;
+    flag = true;
+    if (x >= 5) {
+        x = x + 1;
+    }
+}
